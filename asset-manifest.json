@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/felimonsters-rolodex/static/css/main.bfe413c2.chunk.css",
+    "main.js": "/felimonsters-rolodex/static/js/main.90f01064.chunk.js",
+    "main.js.map": "/felimonsters-rolodex/static/js/main.90f01064.chunk.js.map",
+    "runtime-main.js": "/felimonsters-rolodex/static/js/runtime-main.0b093671.js",
+    "runtime-main.js.map": "/felimonsters-rolodex/static/js/runtime-main.0b093671.js.map",
+    "static/js/2.699c22ec.chunk.js": "/felimonsters-rolodex/static/js/2.699c22ec.chunk.js",
+    "static/js/2.699c22ec.chunk.js.map": "/felimonsters-rolodex/static/js/2.699c22ec.chunk.js.map",
+    "index.html": "/felimonsters-rolodex/index.html",
+    "precache-manifest.88721724f9fa238a20646b3e3261e8d2.js": "/felimonsters-rolodex/precache-manifest.88721724f9fa238a20646b3e3261e8d2.js",
+    "service-worker.js": "/felimonsters-rolodex/service-worker.js",
+    "static/css/main.bfe413c2.chunk.css.map": "/felimonsters-rolodex/static/css/main.bfe413c2.chunk.css.map",
+    "static/js/2.699c22ec.chunk.js.LICENSE.txt": "/felimonsters-rolodex/static/js/2.699c22ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b093671.js",
+    "static/js/2.699c22ec.chunk.js",
+    "static/css/main.bfe413c2.chunk.css",
+    "static/js/main.90f01064.chunk.js"
+  ]
+}
